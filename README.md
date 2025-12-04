@@ -38,16 +38,6 @@
 
 ---
 
-## 📸 Live Preview Screenshot
-
-*(আপনি চাইলে আপনার অ্যাপের স্ক্রিনশট যুক্ত করতে পারেন)*
-
-```
-![Live Preview](./assets/preview.png)
-```
-
----
-
 ## 🌐 লাইভ ভিউ (Live Demo)
 
 👉 **Live Website:** https://bidhyut-bapary.github.io/Bachelor_House/
