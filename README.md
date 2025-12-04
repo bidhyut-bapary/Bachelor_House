@@ -112,7 +112,7 @@ Bachelor_House/
 ## ✨ কৃতজ্ঞতা
 
 * ডিজাইনে অনুপ্রেরণা: ড্রিবল, বিহ্যান্স
-* বিশেষ সহযোগী: ( chatGPT,Copilot,Canva)
+* বিশেষ সহযোগী: ( ChatGPT,Copilot,Canva)
 
 ---
 
